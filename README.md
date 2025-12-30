@@ -62,7 +62,6 @@ Animated_Login_page/
 ```
 Username: admin
 Password: 1234
-
 ```
 
 
@@ -82,7 +81,6 @@ This is a **UI + frontend logic demonstration**, not a secure login system.
 ## 🚀 Possible Enhancements
 
 - Replace alerts with inline validation messages
-- Add responsive span count based on screen size
 - Connect to a real backend (Node / Firebase)
 - Add dashboard redirect after login
 
