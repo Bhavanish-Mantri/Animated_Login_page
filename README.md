@@ -1,4 +1,4 @@
-# Hacker Login Form 🔐
+# Hacker Login Form 
 
 A cyber-style animated login page built using **HTML, CSS, and JavaScript**.  
 The project focuses on **UI effects, DOM manipulation, and clean separation of concerns**, not real authentication.
